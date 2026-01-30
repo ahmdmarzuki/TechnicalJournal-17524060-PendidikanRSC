@@ -19,3 +19,5 @@
 **Masalah / Kendala**
 
 - masalah saat install gazebo harmonic, sebenarnya sudah menggunakan gazebo sebelumnya, hanyasaja pakai yang ionic, bukan harmonic, tadinya pengen pindah ke harmonic, sudah terinstall tapi tidak bisa menjalankan **gz sim**
+
+- **UPDATE TERBARU (20:27) :** gazebo nya udah bisa wkwkwkwkwkk
